@@ -1,6 +1,8 @@
 # React + Vite
 
-node 21
+Node v21.1.0
+
+URL del proyecto: https://aquamarine-kataifi-045c38.netlify.app/
 
 Uso de normalize.css - google fonts
 
